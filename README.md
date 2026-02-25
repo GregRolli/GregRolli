@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Gregorio. Welcome to my profile ! 👋
 
+I'm currently a second year bachelor student at EPFL 🇨🇭 in the Chemistry & Chemical Engineering ⚛️ section.
+
+Contact:
+- ✉️ gregorio.rolli@epfl.ch
 <!--
 **GregRolli/GregRolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
